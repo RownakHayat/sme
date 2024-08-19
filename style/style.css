@@ -1,0 +1,22 @@
+/* .main{
+    padding: 1% 10% 1% 10%;
+} */
+.top-nav{
+    margin: 1% 10% 1% 10%;
+    background-color: #FFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-nav .top-nav-title{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+.top-nav .top-nav-title h1{
+    color:#2B7D74;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
